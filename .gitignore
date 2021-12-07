@@ -38,3 +38,7 @@ tmp/
 local.properties
 .loadpath
 .factorypath
+
+## PASTAS
+
+__MACOSX/
